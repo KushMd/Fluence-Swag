@@ -9,3 +9,4 @@ Fluence + p2p,decentralised (represented by blocks behind the logo)
 
 ![Asset 6](https://user-images.githubusercontent.com/60012090/156932470-b6ffdecd-d469-4faa-803f-fbd7c0969fd4.png)
 ![Asset 7](https://user-images.githubusercontent.com/60012090/156932471-adfdd303-45a2-4eac-9fe7-ec3f500cac59.png)
+![Asset 8](https://user-images.githubusercontent.com/60012090/156936773-571ca4e3-1003-4919-b414-0097c80d7749.png)
